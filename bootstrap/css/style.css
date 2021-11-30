@@ -20,4 +20,10 @@ body {
 
 .parceiros {
     background-color: pink;
+    color: black;
+}
+
+.bg-footer{
+    background-color: rgb(235, 19, 19);
+    color: white;
 }
